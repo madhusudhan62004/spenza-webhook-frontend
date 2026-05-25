@@ -23,7 +23,7 @@ The frontend allows users to:
 - Axios
 - React Router
 - JWT Authentication
-- CSS / Tailwind (if used)
+- CSS / Tailwind
 
 ---
 
